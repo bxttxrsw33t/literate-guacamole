@@ -1,0 +1,96 @@
+.root{
+	-fx-background-color:#000000;
+	
+
+	
+
+}
+@font-face{
+	src: url("BATTLEST.TFF");
+}
+.scene-white{
+	-fx-background-color:#FFFFFF;
+}
+.galactica-label{
+	font-family: "BATTLEST.TT"
+}
+.label-title{
+	-fx-font-size:100pt;
+	-fx-font-weight:bold;
+	-fx-font-style:italic;
+	-fx-text-fill:#FFFFFF;
+}
+.vbox-solo{
+	-fx-background-color:#383838;
+	-fx-text-fill:#FFFFFF;
+}
+.label-white{
+	-fx-text-fill:#FFFFFF;
+	-fx-font-size:14pt;
+}
+.label-black{
+	-fx-font-size:14pt;
+}
+.label-money{
+	-fx-font-size:20pt;
+	-fx-font-weight:bold;
+}
+.label-welcome{
+	-fx-font-size:16pt;
+	-fx-font-weight:bold;
+}
+.label-instructions{
+	-fx-font-size:13pt;
+}
+.label-start{
+	-fx-text-fill:#FFFFFF;
+	-fx-font-size:36pt;
+	
+	-fx-font-weight:bold;
+	-fx-font-style:italic;
+}
+.label-big{
+	-fx-text-fill:#FFFFFF;
+	-fx-font-size:20pt;
+}
+.button-start{
+	-fx-background-color:#000000;
+	-fx-text-fill:#FFFFFF;
+	-fx-pref-width:1000;
+	-fx-pref-height:200;
+	
+	-fx-font-size:36pt;
+	
+	-fx-font-weight:bold;
+	-fx-font-style:italic;
+	
+}
+.button-welcome{
+	-fx-background-color: #FFFFF1;
+	-fx-text-fill:#000000;
+	-fx-font-size:14pt;
+	-fx-pref-width:200;
+	-fx-pref-height:50;
+}
+
+.button-inst{
+	-fx-background-color: #FFFFF1;
+	-fx-text-fill:#000000;
+	-fx-font-size:14pt;
+	-fx-pref-width:70;
+	-fx-pref-height:50;
+}
+
+.button-money{
+	-fx-background-color: #FF0000;
+	-fx-text-fill:#FFFFFF;
+	-fx-font-size:14pt;
+	-fx-background-radius:300;
+	-fx-border-width: 5;
+	-fx-border-radius:150;
+	-fx-border-color:#000000;
+	-fx-pref-width:120;
+	-fx-pref-height:120;
+	
+	
+	}
